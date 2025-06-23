@@ -54,7 +54,7 @@ You can easily navigate between sheets to explore each stage of the analysis.
 
 ## 📸 Dashboard Preview
 
-*(Include a screenshot of your dashboard here if possible)*
+Check the Dashboard Screenshot file
 
 ---
 
